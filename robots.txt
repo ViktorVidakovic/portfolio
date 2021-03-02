@@ -1,0 +1,5 @@
+User-agent:*
+Disallow:/admin/
+Disallow:/bugs/
+
+Sitemap: https://viktorvidakovic.github.io/portfolio/sitemap.xml
