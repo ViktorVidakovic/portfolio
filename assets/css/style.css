@@ -484,6 +484,7 @@ img[src="assets/img/cpp.png"]{
 #form{
 	width:50%;
 	padding-top:30px;
+	color:var(--lightergrey)
 }
 #map{
 	width: 50%;
@@ -526,8 +527,8 @@ input[type="radio"]{
 	filter: saturate(0);
 	-webkit-filter: saturate(0);
 }
-label[for="radio"]{
-	
+td button{
+	width:50px:
 }
 /* Contact end */
 
