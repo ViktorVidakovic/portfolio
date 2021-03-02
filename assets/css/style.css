@@ -557,12 +557,10 @@ img[src="assets/img/about.png"]{
 	-webkit-filter: saturate(0.3);
 }
 #map iframe{
-	width: ;
+	width: 430px;
+	height: 530px;
+	border:0;
 	border-radius: 20px;
-	-webkit-border-radius: 20px;
-	-moz-border-radius: 20px;
-	-ms-border-radius: 20px;
-	-o-border-radius: 20px;
 }
 th{
 	font-size:24px;

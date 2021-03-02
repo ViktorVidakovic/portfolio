@@ -69,9 +69,23 @@
         width: 891px;
         height: 626.72px;
     }
-    /* iframe{
-        width:;
-    } */
+    textarea{
+        height:40px;
+        margin-top: 15px;
+    }
+    #map iframe{
+        width:330px;
+        height: 430px;
+    }
+    th{
+        font-size:22px;
+    }
+    #form{
+        padding-top:20px;
+    }
+    #tabletRegion{
+        padding-top: 7% 2%;
+    }
 }
 @media screen and (max-width:1442px){
     #background{
@@ -161,6 +175,10 @@
     #tablet{
         width: 891px;
         height: 556.72px;
+    }
+    #map iframe{
+        width:290px;
+        height: 330px;
     }
 }
 @media screen and (max-width:1242px){
