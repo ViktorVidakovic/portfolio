@@ -106,6 +106,9 @@ a{
 	filter: saturate(1);
 	-webkit-filter: saturate(1);
 }
+.red{
+	color:var(--red);
+}
 /* Flex and other properties end */
 
 /* Header start */
@@ -314,6 +317,7 @@ main{
 }
 section span p{
 	margin-bottom: 10px;
+	color:var(--lightergrey);
 }
 img[src="assets/img/CSS3.png"]{
 	margin-top: 13px;
@@ -424,6 +428,29 @@ img[src="assets/img/cpp.png"]{
 	font-size: 23px;
 	text-align: justify;
 	color:var(--lightergrey);
+	margin-bottom: 25px;
+}
+#schools{
+	width: 30%;
+	padding: 0% 35%;
+}
+#schools img{
+	transition: 0.3s;
+	filter: saturate(0.1);
+	border-radius: 30px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-ms-border-radius: 30px;
+	-o-border-radius: 30px;
+	-webkit-transition: 0.3s;
+	-moz-transition: 0.3s;
+	-ms-transition: 0.3s;
+	-o-transition: 0.3s;
+	-webkit-filter: saturate(0.1);
+}
+#schools img:hover{
+	filter:saturate(1);
+	-webkit-filter:saturate(1);
 }
 /* About end */
 
@@ -433,7 +460,7 @@ img[src="assets/img/cpp.png"]{
 }
 #contactRegion{
 	width:70%;
-	padding: 4% 7%;
+	padding: 4% 8.5%;
 	padding-top: 0%;
 	margin-bottom: 6%;
 	background-color: rgba(52,50,50,0.99);
@@ -449,6 +476,58 @@ img[src="assets/img/cpp.png"]{
 	width: 1141px;
 	height: 806.72px;
 	background-size: cover;
+}
+#tabletRegion{
+	padding:10% 2%;
+	width:80%;
+}
+#form{
+	width:50%;
+	padding-top:30px;
+}
+#map{
+	width: 50%;
+	filter: saturate(0.3);
+	-webkit-filter: saturate(0.3);
+}
+#map iframe{
+	border-radius: 20px;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+}
+th{
+	font-size:24px;
+}
+input[type="text"],input[type="email"], textarea{
+	width:240px;
+	padding: 2%;
+	margin-bottom:6px;
+	font-size: 16px;
+	background-color:var(--lightergrey);
+	color:var(--jet);
+	border-radius: 3px;
+	border:2px solid var(--lightergrey);
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-ms-border-radius: 3px;
+	-o-border-radius: 3px;
+}
+textarea{
+	resize:none;
+	height: 120px;
+	margin-top: 30px;
+}
+input[type="email"]{
+	margin-bottom: 20px;
+}
+input[type="radio"]{
+	filter: saturate(0);
+	-webkit-filter: saturate(0);
+}
+label[for="radio"]{
+	
 }
 /* Contact end */
 

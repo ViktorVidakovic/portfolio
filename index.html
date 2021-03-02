@@ -153,7 +153,7 @@
                 </div>
                 <section class="flex jc-space">
                     <article class="projectsBlock">
-                        <a href="https://viktorvidakovic.github.io/beehousevidakovic/">
+                        <a href="https://viktorvidakovic.github.io/beehousevidakovic/" target="_blank">
                             <section class="saturation">
                                 <img src="assets/img/beehouse.png" alt="This is my first site!" width="100%" height="240px"/>
                             </section>
@@ -166,7 +166,7 @@
                         </a>
                     </article>
                     <article class="projectsBlock">
-                        <a href="https://viktorvidakovic.github.io/portfolio/">
+                        <a href="https://viktorvidakovic.github.io/portfolio/" target="_blank">
                             <section class="saturation">
                                 <img src="assets/img/portfolio.png" alt="This is my first site!" width="100%" height="240px"/>
                             </section>
@@ -179,12 +179,12 @@
                         </a>
                     </article>
                     <article class="projectsBlock">
-                        <a href="index.html">
+                        <a href="index.html" target="_blank">
                             <section class="saturation">
                                 <img src="assets/img/free-css.png" alt="This is my first site!" width="100%" height="240px"/>
                             </section>
                             <span class="flex jc margin-top-10">
-                                <h3>Bee House Vidakovic</h3>
+                                <h3>Business Solution</h3>
                             </span>
                             <span class="flex jc">
                                 <p>Static, Non-Responsive(HTML5, CSS3)</p>
@@ -207,7 +207,15 @@
                         <img src="assets/img/about.png" alt="This is my photo." width="450px" height="450px"/>
                     </article>
                     <article id="desc">
-                        <p>My name is Viktor Vidaković. I'm web developer from Serbia. I recently graduated from the Technical School "Mileta Nikolić" and started studying IT and Web programming at ICT College. Programming was very fascinating to me from the start, because you can do a lot of applications and programs to make someone's life easier. I'd say that I need to learn a lot to be ready for bigger challenges, but static sites or C programming is currently something that i should say I'm good at. I hope to learn a lot more in the future.</p>
+                        <p>My name is <span class="red">Viktor Vidaković</span>. I'm web developer from Serbia. I recently graduated from the <span class="red">Technical School "Mileta Nikolić"</span> and started studying IT and Web programming at <span class="red">ICT College</span>. Programming was very fascinating to me from the start, because you can do a lot of applications and programs to make someone's life easier. I'd say that I need to learn a lot to be ready for bigger challenges, but static sites or C programming is currently something that i should say I'm good at. I hope to learn a lot more in the future.</p>
+                        <section id="schools" class="flex jc-space">
+                            <a href="https://www.miletanikolic.edu.rs/">
+                                <img src="assets/img/tsmn.jpg" alt="This is logo my High School." width="85px">
+                            </a>
+                            <a href="https://www.ict.edu.rs/">
+                                <img src="assets/img/ict.png" alt="This is logo of ICT College." width="85px">
+                            </a>
+                        </section>
                     </article>
                 </section>
             </article>
@@ -222,8 +230,47 @@
                 </div>
                 <section class="flex jc">
                     <article id="tablet" class="flex jc">
-                        <section id="form"></section>
-                        <section id="map"></section>
+                        <section id="tabletRegion" class="flex jc">
+                            <article id="form" class="flex jc"><form action="#" method="GET" name="forma">
+								<table>
+									<tbody>
+										<tr>
+											<th>Contact me<br/><br/></th>
+										</tr>
+										<tr>
+											<td>
+												<input type="text" name="name" id="name" placeholder="Your name" value="" maxlength="30"/>
+											</td>
+										</tr>
+                                        <tr>
+                                            <td>
+                                                <input type="email" name="email" id="email" placeholder="E-mail" value="" maxlength="30"/>
+                                            </td>
+                                        </tr>
+										<tr>
+											<td>
+												<label for="radio">I need Your help with:<br/><br/> </label>
+												<input type="radio" name="r1" id="static">&nbsp;Static site development<br/>
+                                                <input type="radio" name="r1" id="cpp">&nbsp;C/C++ programming <br/>
+                                                <input type="radio" name="r1" id="sass">&nbsp;Using SASS library <br/>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<textarea name="poruka" id="poruka" placeholder="Type Your message (optional)"></textarea>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<button type="submit" name="button1" class="button">Pošalji</button>
+												<button type="reset" name="button2" class="button">Poništi</button>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</form></article>
+                            <article id="map" class="flex align-center"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2830.358671714499!2d20.48222611575776!3d44.814257184594915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x475a7a9609031735%3A0xc17ed71f59ac4725!2sICT%20College!5e0!3m2!1sen!2srs!4v1614693247860!5m2!1sen!2srs" width="430" height="530" style="border:0;" allowfullscreen="" loading="lazy"></iframe></article>
+                        </section>
                     </article>
                 </section>
             </article>
