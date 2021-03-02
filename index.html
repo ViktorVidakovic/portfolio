@@ -10,6 +10,7 @@
     <meta name="description" content=""/>
     <meta name="author" content="Viktor Vidakovic"/>
     <meta name="keywords" content=""/>
+    <script src="https://kit.fontawesome.com/f44eda4ea5.js"></script>
 </head>
 <body>
     <div class="bg"></div>
@@ -42,7 +43,7 @@
 
 <!-- Pocetak Home-a -->
         <section id="home">
-            <article id="bg" class="flex jc align-center">
+            <article id="background" class="flex jc align-center">
                 <section id="desc-block" class="flex jc align-center">
                     <h1>Viktor Vidaković</h1>
                     <p>Web developer</p>
@@ -62,16 +63,26 @@
                     <h2><span class="capitol">S</span>ervices</h2>
                 </div>
                 <section class="flex jc-space">
-                    <article class="servicesBlock flex jc">
-                        <div id="static">
+                    <article class="servicesBlock flex jc column">
+                        <div class="icons flex jc align-center">
                             <i class="fas fa-code"></i>
                         </div>
+                        <h3>Web development</h3><br/>
+                        <p>I can provide clients with latest and best web design ideas while only using HTML5 and CSS3.</p>
                     </article>
-                    <article class="servicesBlock flex jc">
-                        <div id="photoshop"></div>
+                    <article class="servicesBlock flex jc align-center column">
+                        <div class="icons flex jc align-center">
+                            <i class="fas fa-laptop-code"></i>
+                        </div>
+                        <h3>Responsive Design</h3><br/>
+                        <p>Responsive is one of the most required things, even for static websites. I try my best to make good responsiveness in sites</p>
                     </article>
-                    <article class="servicesBlock flex jc">
-                        <div id="c"></div>
+                    <article class="servicesBlock flex jc align-center column">
+                        <div class="icons flex jc align-center">
+                            <i class="fas fa-chart-bar"></i>
+                        </div>
+                        <h3>SEO Optimization</h3><br/>
+                        <p>SEO (Search Engine Optimization) is not about building search engine-friendly websites. It's about making your site better for people too.</p>
                     </article>
                 </section>
             </article>
@@ -87,7 +98,7 @@
                 <section class="flex jc-space">
                     <article class="skillsBlock flex column align-center">
                         <section class="flex jc">
-                            <img src="assets/img/html5.png" alt="This is HTML5" width="200px" height="200px"/>
+                            <img src="assets/img/html5.png" alt="This is HTML5" />
                         </section>
                         <section id="skills1">
                             <span class="flex jc">
@@ -155,7 +166,7 @@
                     <article class="projectsBlock">
                         <a href="https://viktorvidakovic.github.io/beehousevidakovic/" target="_blank">
                             <section class="saturation">
-                                <img src="assets/img/beehouse.png" alt="This is my first site!" width="100%" height="240px"/>
+                                <img src="assets/img/beehouse.png" alt="This is my first site!"/>
                             </section>
                             <span class="flex jc margin-top-10">
                                 <h3>Bee House Vidakovic</h3>
@@ -168,7 +179,7 @@
                     <article class="projectsBlock">
                         <a href="https://viktorvidakovic.github.io/portfolio/" target="_blank">
                             <section class="saturation">
-                                <img src="assets/img/portfolio.png" alt="This is my first site!" width="100%" height="240px"/>
+                                <img src="assets/img/portfolio.png" alt="This is my first site!"/>
                             </section>
                             <span class="flex jc margin-top-10">
                                 <h3>My Porftolio</h3>
@@ -181,7 +192,7 @@
                     <article class="projectsBlock">
                         <a href="index.html" target="_blank">
                             <section class="saturation">
-                                <img src="assets/img/free-css.png" alt="This is my first site!" width="100%" height="240px"/>
+                                <img src="assets/img/free-css.png" alt="This is my first site!"/>
                             </section>
                             <span class="flex jc margin-top-10">
                                 <h3>Business Solution</h3>
@@ -204,16 +215,16 @@
                 </div>
                 <section class="flex jc-space align-center">
                     <article id="photo">
-                        <img src="assets/img/about.png" alt="This is my photo." width="450px" height="450px"/>
+                        <img src="assets/img/about.png" alt="This is my photo." />
                     </article>
                     <article id="desc">
                         <p>My name is <span class="red">Viktor Vidaković</span>. I'm web developer from Serbia. I recently graduated from the <span class="red">Technical School "Mileta Nikolić"</span> and started studying IT and Web programming at <span class="red">ICT College</span>. Programming was very fascinating to me from the start, because you can do a lot of applications and programs to make someone's life easier. I'd say that I need to learn a lot to be ready for bigger challenges, but static sites or C programming is currently something that i should say I'm good at. I hope to learn a lot more in the future.</p>
                         <section id="schools" class="flex jc-space">
-                            <a href="https://www.miletanikolic.edu.rs/">
-                                <img src="assets/img/tsmn.jpg" alt="This is logo my High School." width="85px">
+                            <a href="https://www.miletanikolic.edu.rs/" target="_blank">
+                                <img src="assets/img/tsmn.jpg" alt="This is logo my High School." />
                             </a>
-                            <a href="https://www.ict.edu.rs/">
-                                <img src="assets/img/ict.png" alt="This is logo of ICT College." width="85px">
+                            <a href="https://www.ict.edu.rs/" target="_blank">
+                                <img src="assets/img/ict.png" alt="This is logo of ICT College."/>
                             </a>
                         </section>
                     </article>
@@ -249,7 +260,7 @@
                                         </tr>
 										<tr>
 											<td>
-												<label for="radio">I need Your help with:<br/><br/> </label>
+												<label for="radio">I need Your help with:<br/></label>
 												<input type="radio" name="r1" id="static">&nbsp;Static site development<br/>
                                                 <input type="radio" name="r1" id="cpp">&nbsp;C/C++ programming <br/>
                                                 <input type="radio" name="r1" id="sass">&nbsp;Using SASS library <br/>
@@ -285,8 +296,57 @@
     </main>
 
 <!-- Pocetak Footer-a -->
-    <footer>   
-
+    <footer class="flex jc-space align-center">
+        <section id="social">
+            <article class="flex jc">
+                <h3>Social</h3>
+            </article>
+            <article class="flex jc align-center">
+                <a href="https://github.com/ViktorVidakovic" target="_blank">
+                    <div class="socialBlock flex jc align-center">
+                        <i class="fab fa-github-square"></i>
+                    </div>
+                </a>
+                <a href="https://www.linkedin.com/in/viktor-vidakovic-08854a208/" target="_blank">
+                    <div class="socialBlock flex jc align-center">
+                        <i class="fab fa-linkedin"></i>
+                    </div>
+                </a>
+                <a href="https://www.reddit.com" target="_blank">
+                    <div class="socialBlock flex jc align-center">
+                        <i class="fab fa-reddit-square"></i>
+                    </div class="socialBlock">
+                </a>
+                <a href="https://viktorvidakovic.github.io/portfolio/sitemap.xml/" target="_blank">
+                    <div class="socialBlock flex jc align-center">
+                        <i class="fas fa-sitemap"></i>
+                    </div>
+                </a>
+            </article>
+        </section>
+        <p>&copy; Copyright ICT College 2021</p>
+        <section id="files">
+            <article class="flex jc">
+                <h3>Assets</h3>
+            </article>
+            <article class="flex column align-center">
+                <a href="assets/css/style.scss" target="_blank">
+                    <div class="filesBlock flex jc align-center">
+                        <p>SCSS</p>
+                    </div>
+                </a>
+                <a href="assets/style.css" target="_blank">
+                    <div class="filesBlock flex jc align-center">
+                        <p>CSS</p>
+                    </div>
+                </a>
+                <a href="assets/responsive.css" target="_blank">
+                    <div class="filesBlock flex jc align-center">
+                        <p>Responsive</p>
+                    </div>
+                </a>
+            </article>
+        </section>
     </footer>
-<!-- Kraj Footera   -->
+<!-- Kraj Footera -->
 </body>

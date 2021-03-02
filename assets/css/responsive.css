@@ -1,0 +1,194 @@
+@media screen and (max-width:1602px){
+    #background{
+        height:730px;
+    }
+    .servicesBlock p{
+        font-size:16px;
+        text-align: justify;
+    }
+    .skillsBlock{
+        height: 280px;
+    }
+    .skillsBlock span p{
+        font-size: 17px;
+    }
+    #projectsBlock{
+        height:100px;
+    }
+    img[src="assets/img/beehouse.png"]{
+        width:100%;
+        height:200px;
+    }
+    img[src="assets/img/portfolio.png"]{
+        width:100%;
+        height:200px;
+    }
+    img[src="assets/img/free-css.png"]{
+        width:100%;
+        height:200px;
+    }
+    #desc{
+        margin-left: 20px;
+        height: 330px;
+    }
+    #desc p{
+        font-size: 18px;
+    }
+    img[src="assets/img/tsmn.jpg"]{
+        width: 65px;
+        height: 65px;
+        margin-right: 20px;
+    }
+    img[src="assets/img/ict.png"]{
+        width:70px;
+        height:70px;
+    }
+    #skills1{
+        margin-top: 12px;
+    }
+    #skills2{
+        margin-top: 1px;
+    }
+    #skills3{
+        margin-top: 24px;
+    }
+    #skills4{
+        margin-top: 26px;
+    }
+    #skills5{
+        margin-top: 14px;
+    }    
+    img[src="assets/img/css_progress.png"],img[src="assets/img/html_progress.png"],img[src="assets/img/sass_progress.png"], img[src="assets/img/cpp_progress.png"], img[src="assets/img/bootstrap_progress.png"]{
+        width: 150px;
+        height: 15px;
+    }
+    #photo{
+        margin-left: 0.5%;
+    }
+    #tablet{
+        width: 891px;
+        height: 626.72px;
+    }
+    /* iframe{
+        width:;
+    } */
+}
+@media screen and (max-width:1442px){
+    #background{
+        height:730px;
+    }
+    #skillsBlock{
+        height:200px;
+    }
+    img[src="assets/img/html5.png"]{
+        width:160px;
+        height: 160px;
+    }
+    img[src="assets/img/CSS3.png"]{
+        width: 97px;
+        height: 138px;
+    }
+    img[src="assets/img/bootstrap.png"]{
+        width:102px;
+        height: 102px;
+    }
+    img[src="assets/img/sass.png"]{
+        width: 101px;
+        height: 100px;
+    }
+    img[src="assets/img/cpp.png"]{
+        width: 116px;
+        height: 115px;
+    }
+    img[src="assets/img/css_progress.png"],img[src="assets/img/html_progress.png"],img[src="assets/img/sass_progress.png"], img[src="assets/img/cpp_progress.png"], img[src="assets/img/bootstrap_progress.png"]{
+        width: 130px;
+        height: 15px;
+    }
+    img[src="assets/img/beehouse.png"]{
+        width:100%;
+        height:200px;
+    }
+    img[src="assets/img/portfolio.png"]{
+        width:100%;
+        height:200px;
+    }
+    img[src="assets/img/free-css.png"]{
+        width:100%;
+        height:200px;
+    }
+    .projectsBlock a span p{
+        font-size: 14px;
+    }
+    .projectsBlock a span h3{
+        font-size: 20px;
+    }
+    #desc p{
+        font-size:18px;
+    }
+    img[src="assets/img/tsmn.jpg"]{
+        width: 65px;
+        height: 65px;
+        margin-right: 20px;
+    }
+    img[src="assets/img/ict.png"]{
+        width:70px;
+        height:70px;
+    }
+    #schools{
+        width: 36%;
+        padding: 0% 32%;
+    }
+    #contactRegion{
+        width:80%;
+        padding: 2% 5.5%;
+    }
+    h2{
+        margin-bottom: 25px;
+    }
+    .skillsBlock{
+        height: 250px;
+    }
+    img[src="assets/img/about.png"]{
+        width: 400px;
+        height: 400px;
+    }
+    .projectsBlock{
+        height: 275px;
+    }
+    #photo{
+        margin-left: 0.5%;
+    }
+    #tablet{
+        width: 891px;
+        height: 556.72px;
+    }
+}
+@media screen and (max-width:1242px){
+    .skillsBlock{
+        height: 220px;
+    }
+    img[src="assets/img/html5.png"]{
+        width:130px;
+        height: 130px;
+    }
+    img[src="assets/img/CSS3.png"]{
+        width: 77px;
+        height: 108px;
+    }
+    img[src="assets/img/bootstrap.png"]{
+        width:72px;
+        height: 72px;
+    }
+    img[src="assets/img/sass.png"]{
+        width: 71px;
+        height: 70px;
+    }
+    img[src="assets/img/cpp.png"]{
+        width: 86px;
+        height: 85px;
+    }
+    img[src="assets/img/about.png"]{
+        width: 380px;
+        height: 350px;
+    }
+}
