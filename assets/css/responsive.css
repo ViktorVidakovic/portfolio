@@ -9,11 +9,11 @@
     .skillsBlock{
         height: 280px;
     }
-    .skillsBlock span p{
-        font-size: 17px;
+    .projectsBlock a span p{
+        font-size: 18px;
     }
-    #projectsBlock{
-        height:100px;
+    .projectsBlock{
+        height:282px;
     }
     img[src="assets/img/beehouse.png"]{
         width:100%;
@@ -35,8 +35,8 @@
         font-size: 18px;
     }
     img[src="assets/img/tsmn.jpg"]{
-        width: 65px;
-        height: 65px;
+        width: 60px;
+        height: 60px;
         margin-right: 20px;
     }
     img[src="assets/img/ict.png"]{
@@ -57,7 +57,27 @@
     }
     #skills5{
         margin-top: 14px;
-    }    
+    }
+    img[src="assets/img/html5.png"]{
+        width:175px;
+        height: 175px;
+    }
+    img[src="assets/img/CSS3.png"]{
+        width: 112px;
+        height: 153px;
+    }
+    img[src="assets/img/bootstrap.png"]{
+        width:117px;
+        height: 117px;
+    }
+    img[src="assets/img/sass.png"]{
+        width: 116px;
+        height: 115px;
+    }
+    img[src="assets/img/cpp.png"]{
+        width: 131px;
+        height: 130px;
+    }
     img[src="assets/img/css_progress.png"],img[src="assets/img/html_progress.png"],img[src="assets/img/sass_progress.png"], img[src="assets/img/cpp_progress.png"], img[src="assets/img/bootstrap_progress.png"]{
         width: 150px;
         height: 15px;
@@ -84,7 +104,11 @@
         padding-top:20px;
     }
     #tabletRegion{
-        padding-top: 7% 2%;
+        padding: 7% 2%;
+    }
+    h2{
+        font-size:32px;
+        margin-bottom: 25px;
     }
 }
 @media screen and (max-width:1442px){
@@ -138,6 +162,7 @@
     }
     #desc p{
         font-size:18px;
+        margin-bottom: 5px;
     }
     img[src="assets/img/tsmn.jpg"]{
         width: 65px;
@@ -155,6 +180,7 @@
     #contactRegion{
         width:80%;
         padding: 2% 5.5%;
+        padding-top: 0%;
     }
     h2{
         margin-bottom: 25px;
@@ -174,12 +200,20 @@
     }
     #tablet{
         width: 891px;
-        height: 556.72px;
+        height: 595.72px;
     }
     #map iframe{
         width:290px;
         height: 330px;
     }
+    input[type="text"],input[type="email"], textarea{
+        width:240px;
+        padding: 1%;
+    }
+    td{
+        font-size:14px;
+    }
+
 }
 @media screen and (max-width:1242px){
     .skillsBlock{
@@ -205,8 +239,168 @@
         width: 86px;
         height: 85px;
     }
+    img[src="assets/img/tsmn.jpg"]{
+        width: 58px;
+        height: 58px;
+    }
+    img[src="assets/img/ict.png"]{
+        width: 60px;
+        height: 60px;
+    }
     img[src="assets/img/about.png"]{
         width: 380px;
         height: 350px;
+    }
+    #desc p{
+        font-size: 16px;
+    }
+}
+@media screen and (max-width:1052px){
+    #desc{
+        height: 230px;
+    }
+    #desc p{
+        font-size: 14px;
+    }
+    img[src="assets/img/about.png"]{
+        width:300px;
+        height:285px;
+    }
+    img[src="assets/img/tsmn.jpg"]{
+        width: 42px;
+        height: 42px;
+        margin-top: 10px;
+    }
+    img[src="assets/img/ict.png"]{
+        width: 42px;
+        height: 42px;
+        margin-top: 10px;
+    }
+    #tablet img{
+        width: 0%;
+    }
+    img[src="assets/img/beehouse.png"] {
+        height: 140px;
+    }
+    img[src="assets/img/portfolio.png"]{
+        height:140px;
+    }
+    img[src="assets/img/free-css.png"]{
+        height:140px;
+    }
+    .servicesBlock p{
+        font-size: 14px;
+    }
+    .servicesBlock h3{
+        font-size:20px;
+    }
+    img[src="assets/img/css_progress.png"],img[src="assets/img/html_progress.png"],img[src="assets/img/sass_progress.png"], img[src="assets/img/cpp_progress.png"], img[src="assets/img/bootstrap_progress.png"]{
+        width: 110px;
+        height: 12px;
+    }
+    .projectsRegion{
+        padding: 0% 4%;
+    }
+    .projectsBlock {
+        height: 202px;
+    }
+    .projectsBlock a span p {
+        font-size: 12px;
+    }
+    .projectsBlock a span h3{
+        font-size:18px;
+    }
+    p{ 
+        font-size: 18px;
+        text-align: center;
+    }
+    img[src="assets/img/html5.png"]{
+        width: 110px;
+        height: 110px;
+    }
+    img[src="assets/img/CSS3.png"] {
+        width: 67px;
+        height: 92px;
+        margin-bottom: 17px;
+    }
+    img[src="assets/img/bootstrap.png"] {
+        margin-top: 35px;
+        margin-bottom: 10px;
+        width: 61px;
+        height: 60px;
+    }
+    img[src="assets/img/sass.png"]{
+        width: 61px;
+        height: 60px;
+        margin-top: 35px;
+    }
+    img[src="assets/img/cpp.png"]{
+        width: 76px;
+        height: 75px;
+        margin-top: 22px;
+    }
+    .servicesBlock p{
+        text-align: left;
+    }
+    .skillsBlock {
+        height: 180px;
+    }
+    #skills1{
+        margin-top: 2px;
+    }
+    #skills2{
+        margin-top: -9px;
+    }
+    #skills3{
+        margin-top: 6px;
+    }
+    #skills4{
+        margin-top: 16px;
+    }
+    #skills5{
+        margin-top: 14px;
+    }
+    footer{
+        width: 68%;
+        padding:1% 16%;
+        height: 80px;
+    }
+    footer p,footer h3{
+        font-size:18px;
+        text-align: center;
+    }
+    #social{
+        width: 40%;
+    }
+    #social i{
+        font-size:28px;
+        color:var(--darkred);
+    }
+}
+@media screen and (max-width:877px){
+    img[src="assets/img/html5.png"]{
+        width: 90px;
+        height: 90px;
+    }
+    img[src="assets/img/CSS3.png"] {
+        width: 67px;
+        height: 92px;
+        margin-bottom: 17px;
+    }
+    img[src="assets/img/bootstrap.png"] {
+        margin-top: 35px;
+        margin-bottom: 10px;
+        width: 61px;
+        height: 60px;
+    }
+    img[src="assets/img/sass.png"]{
+        width: 61px;
+        height: 60px;
+        margin-top: 35px;
+    }
+    img[src="assets/img/cpp.png"]{
+        width: 76px;
+        height: 75px;
+        margin-top: 22px;
     }
 }

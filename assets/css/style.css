@@ -304,7 +304,7 @@ main{
 }
 .fa-code,.fa-chart-bar,.fa-laptop-code{
 	font-size:80px;
-	color:var(--red);
+	color:var(--darkred);
 }
 .icons{
 	height:120px;
@@ -455,6 +455,10 @@ img[src="assets/img/free-css.png"]{
 .projectsBlock a span p{
 	color:var(--lightergrey);
 	font-size: 20px;
+	text-align: center;
+}
+.projectsBlock a span h3{
+	text-align: center;
 }
 /* Projects end */
 
@@ -538,8 +542,7 @@ img[src="assets/img/about.png"]{
 }
 #tablet{
 	background-image: url("../img/tablet.png");
-	width: 1141px;
-	height: 806.72px;
+	width: 85%;
 	background-size: cover;
 }
 #tabletRegion{
@@ -564,6 +567,10 @@ img[src="assets/img/about.png"]{
 }
 th{
 	font-size:24px;
+	font-weight: 500;
+}
+td{
+	font-size:16px;
 }
 input[type="text"],input[type="email"], textarea{
 	width:240px;
@@ -592,6 +599,9 @@ input[type="radio"]{
 	-webkit-filter: saturate(0);
 	margin-top: 7px;
 }
+input[type="checkbox"]{
+	filter:saturate(0);
+}
 .button{
 	width:70px;
 	height:30px;
@@ -614,10 +624,6 @@ input[type="radio"]{
 	background-color:var(--jet);
 	color:var(--lightergrey);
 	border: 2px solid var(--lightergrey);
-}
-th{
-	font-size:26px;
-	font-weight: 500;
 }
 /* Contact end */
 
@@ -664,10 +670,6 @@ footer h3{
 	background-color:var(--darkjet);
 	margin-left: 8px;
 	border-radius: 6px;
-	-webkit-border-radius: 6px;
-	-moz-border-radius: 6px;
-	-ms-border-radius: 6px;
-	-o-border-radius: 6px;
 }
 #files article a{
 	transition: .3s;
