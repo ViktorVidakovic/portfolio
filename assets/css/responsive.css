@@ -2,12 +2,18 @@
     #background{
         height:730px;
     }
+    #aboutRegion{
+        padding: 5% 5%;
+        padding-top: 0px;
+    }
+    .servicesBlock{
+        height: 260px;
+    }
     .servicesBlock p{
         font-size:16px;
-        text-align: justify;
     }
-    .skillsBlock{
-        height: 280px;
+    .servicesBlock h3{
+        font-size: 22px;
     }
     .projectsBlock a span p{
         font-size: 18px;
@@ -16,32 +22,33 @@
         height:282px;
     }
     img[src="assets/img/beehouse.png"]{
-        width:100%;
         height:200px;
     }
     img[src="assets/img/portfolio.png"]{
-        width:100%;
         height:200px;
     }
     img[src="assets/img/free-css.png"]{
-        width:100%;
         height:200px;
     }
     #desc{
         margin-left: 20px;
-        height: 330px;
+        height: 300px;
+        margin-right: 3.5%;
     }
     #desc p{
         font-size: 18px;
     }
     img[src="assets/img/tsmn.jpg"]{
-        width: 60px;
-        height: 60px;
+        width: 62px;
+        height: 62px;
         margin-right: 20px;
     }
     img[src="assets/img/ict.png"]{
-        width:70px;
-        height:70px;
+        width:62px;
+        height:62px;
+    }
+    .skillsBlock{
+        height: 270px;
     }
     #skills1{
         margin-top: 12px;
@@ -82,6 +89,10 @@
         width: 150px;
         height: 15px;
     }
+    img[src="assets/img/about.png"]{
+        width: 400px;
+        height: 400px;
+    }
     #photo{
         margin-left: 0.5%;
     }
@@ -115,8 +126,8 @@
     #background{
         height:730px;
     }
-    #skillsBlock{
-        height:200px;
+    .servicesBlock h3{
+        font-size: 20px;
     }
     img[src="assets/img/html5.png"]{
         width:160px;
@@ -143,35 +154,35 @@
         height: 15px;
     }
     img[src="assets/img/beehouse.png"]{
-        width:100%;
         height:200px;
     }
     img[src="assets/img/portfolio.png"]{
-        width:100%;
         height:200px;
     }
     img[src="assets/img/free-css.png"]{
-        width:100%;
         height:200px;
     }
     .projectsBlock a span p{
-        font-size: 14px;
+        font-size: 16px;
     }
     .projectsBlock a span h3{
         font-size: 20px;
+    }
+    #desc{
+        margin-right: 0.5%;
     }
     #desc p{
         font-size:18px;
         margin-bottom: 5px;
     }
     img[src="assets/img/tsmn.jpg"]{
-        width: 65px;
-        height: 65px;
+        width: 58px;
+        height: 58px;
         margin-right: 20px;
     }
     img[src="assets/img/ict.png"]{
-        width:70px;
-        height:70px;
+        width:58px;
+        height:58px;
     }
     #schools{
         width: 36%;
@@ -187,6 +198,7 @@
     }
     .skillsBlock{
         height: 250px;
+        width: 19.1%;
     }
     img[src="assets/img/about.png"]{
         width: 400px;
@@ -194,6 +206,7 @@
     }
     .projectsBlock{
         height: 275px;
+        width: 36%;
     }
     #photo{
         margin-left: 0.5%;
@@ -218,6 +231,18 @@
 @media screen and (max-width:1242px){
     .skillsBlock{
         height: 220px;
+    }
+    .projectsBlock{
+        height: 255px;
+    }
+    img[src="assets/img/beehouse.png"]{
+        height:180px;
+    }
+    img[src="assets/img/portfolio.png"]{
+        height:180px;
+    }
+    img[src="assets/img/free-css.png"]{
+        height:180px;
     }
     img[src="assets/img/html5.png"]{
         width:130px;
@@ -258,7 +283,6 @@
 @media screen and (max-width:1052px){
     #desc{
         height: 230px;
-        margin-right: 0.5%;
         padding-top: 15px;
     }
     #desc p{
@@ -291,10 +315,10 @@
         height:140px;
     }
     .servicesBlock p{
-        font-size: 14px;
+        font-size: 12px;
     }
     .servicesBlock h3{
-        font-size:20px;
+        font-size:16px;
     }
     img[src="assets/img/css_progress.png"],img[src="assets/img/html_progress.png"],img[src="assets/img/sass_progress.png"], img[src="assets/img/cpp_progress.png"], img[src="assets/img/bootstrap_progress.png"]{
         width: 110px;
@@ -396,8 +420,47 @@
         width: 90%;
     }
 }
-@media screen and (max-width:877px){
+@media screen and (max-width:770px){
     .skillsBlock{
-        
+        height: 155px;
+    }
+    img[src="assets/img/html5.png"]{
+        width: 90px;
+        height: 90px;
+    }
+    img[src="assets/img/CSS3.png"] {
+        width: 55px;
+        height: 79px;
+        margin-top: 5px;
+    }
+    img[src="assets/img/bootstrap.png"] {
+        margin-top: 26px;
+        width: 51px;
+        height: 50px;
+    }
+    img[src="assets/img/sass.png"]{
+        width: 51px;
+        height: 50px;
+        margin-top: 24px;
+    }
+    img[src="assets/img/cpp.png"]{
+        width: 66px;
+        height: 65px;
+        margin-top: 11px;
+    }
+    #desc-block h1{
+        font-size:34px;
+    }
+    #desc-block p{
+        font-size: 24px;
+    }
+    img[src="assets/img/css_progress.png"],img[src="assets/img/html_progress.png"],img[src="assets/img/sass_progress.png"], img[src="assets/img/cpp_progress.png"], img[src="assets/img/bootstrap_progress.png"]{
+        width: 90px;
+        height: 10px;
+    }
+}
+@media screen and (max-width:425px){
+    .skillsBlock{
+        width:45%;
     }
 }
