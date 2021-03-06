@@ -199,7 +199,10 @@ header nav ul li a {
   font-size: 19px;
   font-family: 'Jura', sans-serif;
 }
-
+img[src="assets/logo.png"]{
+  height: 47px;
+  width: 47px;
+}
 #logo {
   border: 3px rgba(0, 0, 0, 0) solid;
   transition: 0.4s;
@@ -721,7 +724,7 @@ td {
   font-size: 16px;
 }
 
-input[type="text"] {
+input[type="text"],input[type="email"],textarea{
   width: 240px;
   padding: 2%;
   margin-bottom: 6px;
@@ -737,34 +740,10 @@ input[type="text"] {
 }
 
 input[type="email"] {
-  width: 240px;
-  padding: 2%;
-  margin-bottom: 6px;
-  font-size: 16px;
-  background-color: #cdcbcb;
-  color: #3E3C3D;
-  border-radius: 3px;
-  border: 2px solid #cdcbcb;
-  -webkit-border-radius: 3px;
-  -moz-border-radius: 3px;
-  -ms-border-radius: 3px;
-  -o-border-radius: 3px;
   margin-bottom: 20px;
 }
 
 textarea {
-  width: 240px;
-  padding: 2%;
-  margin-bottom: 6px;
-  font-size: 16px;
-  background-color: #cdcbcb;
-  color: #3E3C3D;
-  border-radius: 3px;
-  border: 2px solid #cdcbcb;
-  -webkit-border-radius: 3px;
-  -moz-border-radius: 3px;
-  -ms-border-radius: 3px;
-  -o-border-radius: 3px;
   resize: none;
   height: 120px;
   margin-top: 22px;
@@ -781,7 +760,7 @@ input[type="checkbox"] {
   filter: saturate(0);
 }
 
-.button {
+.buttons {
   width: 70px;
   height: 30px;
   font-size: 16px;
@@ -800,7 +779,7 @@ input[type="checkbox"] {
   -o-border-radius: 8px;
 }
 
-.button:hover {
+.buttons:hover {
   background-color: #3E3C3D;
   color: #cdcbcb;
   border: 2px solid #cdcbcb;
@@ -849,11 +828,27 @@ footer p {
 
 .socialBlock i {
   font-size: 30px;
-  color: #8E0019;
+  -webkit-transition: .3s;
+  transition: .3s;
 }
-
-.socialBlock i.fa-sitemap {
+.fa-sitemap{
   font-size: 26px;
+}
+.fa-github-square:hover{
+  color:#8E0019;
+  font-size: 26px;
+}
+.fa-linkedin:hover{
+  color:#8E0019;
+  font-size: 26px;
+}
+.fa-reddit-square:hover{
+  color:#8E0019;
+  font-size: 26px;
+}
+.fa-sitemap:hover{
+  font-size: 22px;
+  color: #8E0019;
 }
 
 #files {
@@ -868,12 +863,7 @@ footer p {
 #files article a:hover {
   color: #8E0019;
 }
-
-#filesBlock {
-  width: 60px;
-  height: 45px;
-  background-color: #343232;
-  margin-left: 8px;
-  border-radius: 6px;
-}
+a.socialBlock:hover{
+  background-color:#8E0019;
+} 
 /*# sourceMappingURL=style.css.map */

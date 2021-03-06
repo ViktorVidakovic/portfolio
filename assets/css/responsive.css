@@ -309,8 +309,8 @@
         height: 52px;
     }
     img[src="assets/img/about.png"]{
-        width: 260px;
-        height: 260px;
+        width: 245px;
+        height: 245px;
     }
     #desc{
         height: 260px;
@@ -473,7 +473,6 @@
     }
     #social i{
         font-size:28px;
-        color:var(--darkred);
     }
     #tabletRegion{
         padding: 0% 0%;
@@ -581,6 +580,19 @@
     }
     input[type="text"],input[type="email"], textarea {
         width:200px;
+        padding: 0.5%;
+        font-size: 12px;
+    }
+    label{
+        font-size: 13px;
+    }
+    td{
+        font-size: 12px;
+    }
+    .buttons{
+        font-size: 12px;
+        width: 50px;
+        height: 23px;
     }
     .projectsBlock {
         height: 240px;
@@ -591,6 +603,12 @@
     }
     .servicesBlock{
         width: 60%;
+    }
+    h2 {
+        margin-bottom: 10px;
+    }
+    .servicesBlock:first-child {
+        margin-bottom: 5px;
     }
 }
 @media screen and (max-width:590px){
@@ -611,8 +629,52 @@
         width: 160px;
         height: 13px;
     }
+    .projectsBlock {
+        height: 185px;
+        width: 61%;
+    }
+    img[src="assets/img/beehouse.png"],img[src="assets/img/portfolio.png"],img[src="assets/img/free-css.png"]{
+        height: 130px;
+    }
+    .projectsBlock a span p {
+        font-size: 11px;
+    }
+    .projectsBlock a span h3 {
+        font-size: 13px;
+    }
+    .margin-top-10{
+        margin-top: 5px;
+    }
+    .servicesBlock {
+        width: 84%;
+        height: 200px;
+        padding: 0% 5%;
+    }
+    .icons{
+        margin-bottom: 0px;
+    }
+    #background.jc{
+        justify-content: normal;
+    }
+    #desc-block{
+        padding: 3% 5%;
+        position: relative;
+        left:-100px;
+    }
+    #desc-block p{
+        font-size: 28px;
+    }
+    #desc-block h1{
+        font-size: 34px;
+    }
+    #desc{
+        height: 240px;
+    }
+    #button{
+        font-size: 15px;
+    }
 }
-@media screen and (max-width:425px){
+@media screen and (max-width:427px){
     img[src="assets/img/beehouse.png"],img[src="assets/img/portfolio.png"],img[src="assets/img/free-css.png"]{
         height: 110px;
     }
@@ -621,6 +683,7 @@
     }
     #photo{
         border-radius: 18px;
+        border:4px ridge #ebebeb;
     }
     img[src="assets/img/about.png"] {
         width: 80px;
@@ -641,5 +704,16 @@
     }
     #desc p{
         font-size: 11px;
-    }  
+    }
+    #desc-block{
+        width: 56%;
+        left: -86px;
+    }
+    #container{
+        width: 98%;
+    }
+    header{
+        height: 96px;
+    }
+    
 }
