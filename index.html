@@ -18,7 +18,7 @@
     <div class="bg bg3"></div>
     <header>
 <!-- Pocetak Menija  -->
-        <div class="flex align-center center jc-space"> 
+        <div id="container" class="flex align-center jc-space"> 
             <div id="logo">
                 <a href="#">
                     <img src="assets/img/logo.png" alt="This is logo!" width="47px" height="47px">
@@ -63,17 +63,17 @@
                     <h2><span class="capital">S</span>ervices</h2>
                 </div>
                 <section class="flex jc flex-wrap">
-                    <article class="servicesBlock flex jc align-center column">
-                        <div class="icons flex jc">
+                    <article class="servicesBlock flex jc column">
+                        <div class="icons align-center flex jc">
                             <i class="fas fa-code"></i>
                         </div>
                         <div class="stext flex jc column">
                             <h3>Web development</h3>
                             <p>I can provide clients with latest and best web design ideas while only using HTML5 and CSS3.</p>
-                        </div>
+                        </div><br/>
                     </article>
-                    <article class="servicesBlock flex jc align-center column">
-                        <div class="icons flex jc align-center">
+                    <article class="servicesBlock flex jc column">
+                        <div class="icons align-center flex jc align-center">
                             <i class="fas fa-laptop-code"></i>
                         </div>
                         <div class="stext flex jc column">
@@ -81,12 +81,14 @@
                             <p>Responsive is the most required thing, even for static websites. I'm trying my best to make good responsive websites.</p>
                         </div>
                     </article>
-                    <article class="servicesBlock flex jc align-center column">
-                        <div class="icons flex jc">
+                    <article class="servicesBlock flex jc column">
+                        <div class="icons align-center flex jc">
                             <i class="fas fa-chart-bar"></i>
                         </div>
-                        <h3>SEO Optimization</h3>
-                        <p>SEO(Search Engine Optimization) is about making your site better for people, as well as optimizing for robots (spiders).</p>
+                        <div class="stext flex jc column">
+                            <h3>SEO Optimization</h3>
+                            <p>SEO(Search Engine Optimization) is about making your site better for people, as well as optimizing for robots (spiders).</p>
+                        </div>
                     </article>
                 </section>
             </article>
@@ -217,12 +219,12 @@
                 <div class="flex jc">
                     <h2 name="about"><span class="capital">A</span>bout</h2>
                 </div>
-                <section class="flex jc-space align-center">
+                <section class="flex flex-wrap jc-space align-center">
                     <article id="photo">
                         <img src="assets/img/about.png" alt="This is my photo." />
                     </article>
                     <article id="desc">
-                        <p>My name is <span class="red">Viktor Vidaković</span>. I'm web developer from Serbia. I recently graduated from the <span class="red">Technical School "Mileta Nikolić"</span> and started studying IT and Web programming at <span class="red">ICT College</span>. Programming was very fascinating to me from the start, because you can do a lot of applications and programs to make someone's life easier. I'd say that I need to learn a lot to be ready for bigger challenges, but static sites or C programming is currently something that i should say I'm good at. I hope to learn a lot more in the future.</p>
+                        <p>My name is <span class="red">Viktor Vidaković</span>. I'm web developer from Serbia. I recently graduated from the <span class="red">Technical School "Mileta Nikolić"</span> and started studying IT and Web programming at <span class="red">ICT College</span>. Programming was very fascinating to me from the start, because you can do a lot of applications and programs to make someone's life easier. I'd say that I need to learn a lot to be ready for bigger challenges, but static sitesand C programming is currently something that i should say I'm good at. I hope to learn a lot more in the future.</p>
                         <section id="schools" class="flex jc-space">
                             <a href="https://www.miletanikolic.edu.rs/" target="_blank">
                                 <img src="assets/img/tsmn.jpg" alt="This is logo my High School." />
@@ -245,7 +247,7 @@
                 </div>
                 <section class="flex jc">
                     <article id="tablet" class="flex jc">
-                        <section id="tabletRegion" class="flex flex-wrap">
+                        <section id="tabletRegion" class="flex jc flex-wrap">
                             <article id="form" class="flex jc align-center column"><form action="#" method="GET" name="forma">
 								<table>
 									<tbody>
@@ -334,21 +336,15 @@
                 <h3>Assets</h3>
             </article>
             <article class="flex column align-center">
-                <a href="assets/css/style.scss" target="_blank">
-                    <div class="filesBlock flex jc align-center">
-                        <p>SCSS</p>
-                    </div>
-                </a>
-                <a href="assets/css/style.css" target="_blank">
-                    <div class="filesBlock flex jc align-center">
-                        <p>CSS</p>
-                    </div>
-                </a>
-                <a href="assets/css/responsive.css" target="_blank">
-                    <div class="filesBlock flex jc align-center">
-                        <p>Responsive</p>
-                    </div>
-                </a>
+                <div class="filesBlock flex jc align-center">
+                    <a href="assets/css/style.scss" target="_blank">SCSS</a>
+                </div>
+                <div class="filesBlock flex jc align-center">
+                    <a href="assets/css/style.css" target="_blank">CSS</a>
+                </div>
+                <div class="filesBlock flex jc align-center">
+                    <a href="assets/css/responsive.css" target="_blank">Responsive</a>
+                </div>
             </article>
         </section>
     </footer>
