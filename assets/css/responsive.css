@@ -675,6 +675,9 @@
     }
 }
 @media screen and (max-width:427px){
+    #background{
+        height: 700px;
+    }
     img[src="assets/img/beehouse.png"],img[src="assets/img/portfolio.png"],img[src="assets/img/free-css.png"]{
         height: 110px;
     }
@@ -709,11 +712,13 @@
         width: 56%;
         left: -86px;
     }
+    nav{
+        display: none;
+    }
     #container{
-        width: 98%;
+        width:100%;
     }
-    header{
-        height: 96px;
+    #logo{
+        margin: 0px auto;
     }
-    
 }
