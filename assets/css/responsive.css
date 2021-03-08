@@ -1,1 +1,1111 @@
-@media screen and (max-width:1602px){#background{height:730px;}#aboutRegion{padding: 5% 5%;padding-top: 0px;}#servicesRegion{width: 90%;padding: 3% 0%;}.servicesBlock{height: 260px;}.servicesBlock p{font-size:16px;}.servicesBlock h3{font-size: 22px;}.projectsBlock a span p{font-size: 18px;}.projectsBlock{height:282px;}img[src="assets/img/beehouse.png"],img[src="assets/img/portfolio.png"],img[src="assets/img/free-css.png"]{height:200px;}#desc{margin-left: 20px;height: 300px;margin-right: 3.5%;}#desc p{font-size: 18px;}img[src="assets/img/tsmn.jpg"],img[src="assets/img/ict.png"]{width: 62px;height: 62px;}.skillsBlock{height: 270px;}#skills1{margin-top: 12px;}#skills2{margin-top: 1px;}#skills3{margin-top: 24px;}#skills4{margin-top: 26px;}#skills5{margin-top: 14px;}img[src="assets/img/html5.png"]{width:175px;height: 175px;}img[src="assets/img/CSS3.png"]{width: 112px;height: 153px;}img[src="assets/img/bootstrap.png"]{width:117px;height: 117px;}img[src="assets/img/sass.png"]{width: 116px;height: 115px;}img[src="assets/img/cpp.png"]{width: 131px;height: 130px;}img[src="assets/img/css_progress.png"],img[src="assets/img/html_progress.png"],img[src="assets/img/sass_progress.png"], img[src="assets/img/cpp_progress.png"], img[src="assets/img/bootstrap_progress.png"]{width: 150px;height: 15px;}img[src="assets/img/about.png"]{width: 400px;height: 400px;}#photo{margin-left: 0.5%;}#tablet{width: 891px;height: 626.72px;}textarea{height:40px;margin-top: 15px;}#map iframe{width:330px;height: 330px;}th{font-size:22px;}#form{padding-top:20px;}#tabletRegion{padding: 7% 2%;}h2{font-size:32px;margin-bottom: 25px;}.icons{flex-direction: column-reverse;justify-content: end;}.fa-code, .fa-chart-bar, .fa-laptop-code {font-size: 70px;}}@media screen and (max-width:1442px){.servicesBlock{height: 230px;}.servicesBlock h3{font-size: 19px;}.servicesBlock p{font-size:15px;}img[src="assets/img/html5.png"]{width:160px;height: 160px;}img[src="assets/img/CSS3.png"]{width: 97px;height: 138px;}img[src="assets/img/bootstrap.png"]{width:102px;height: 102px;}img[src="assets/img/sass.png"]{width: 101px;height: 100px;}img[src="assets/img/cpp.png"]{width: 116px;height: 115px;}img[src="assets/img/css_progress.png"],img[src="assets/img/html_progress.png"],img[src="assets/img/sass_progress.png"], img[src="assets/img/cpp_progress.png"], img[src="assets/img/bootstrap_progress.png"]{width: 130px;height: 15px;}img[src="assets/img/beehouse.png"],img[src="assets/img/portfolio.png"],img[src="assets/img/free-css.png"]{height:200px;}.projectsBlock a span p{font-size: 16px;}.projectsBlock a span h3{font-size: 20px;}#desc{margin-right: 0.5%;width:58%;height: 340px;}#desc p{font-size:19px;margin-bottom: 15px;}img[src="assets/img/tsmn.jpg"],img[src="assets/img/ict.png"]{width: 58px;height: 58px;}img[src="assets/img/tsmn.jpg"]{margin-right: 20px;}#schools{width: 36%;padding: 0% 32%;}#contactRegion{width:80%;padding: 2% 5.5%;padding-top: 0%;}h2{font-size: 28px;margin-bottom: 25px;}.skillsBlock{height: 250px;width: 19.1%;}img[src="assets/img/about.png"]{width: 300px;height: 300px;}.projectsBlock{height: 275px;width: 36%;}#photo{margin-left: 0.5%;}#tablet{width: 891px;height: 595.72px;}iframe{width:220px;height: 220px;}input[type="text"],input[type="email"], textarea{width:240px;padding: 1%;}td{font-size:14px;}.fa-code, .fa-chart-bar, .fa-laptop-code {font-size: 65px;}footer {width: 70%;padding: 0% 15%;height: 100px;}footer a{font-size: 18px;}footer h3{font-size:24px;}footer p{font-size: 18px;}.socialBlock{width: 32px;height: 32px;}#social i{font-size:23px;}h2::before{margin-top: 0px;height: 20px;}}@media screen and (max-width:1242px){.skillsBlock{height: 220px;}#projectsRegion{padding:2% 5%;}h2 {font-size: 25px;margin-bottom: 15px;}h2::before{margin-top: 0px;height: 15px;}.projectsBlock{height: 235px;}.servicesBlock{height: 210px;width: 25%;}.servicesBlock h3{font-size: 18px;}.servicesBlock p{font-size:14px;}img[src="assets/img/beehouse.png"],img[src="assets/img/portfolio.png"],img[src="assets/img/free-css.png"]{height:160px;}img[src="assets/img/html5.png"]{width:130px;height: 130px;}img[src="assets/img/CSS3.png"]{width: 77px;height: 108px;}img[src="assets/img/bootstrap.png"]{width:72px;height: 72px;}img[src="assets/img/sass.png"]{width: 71px;height: 70px;}img[src="assets/img/cpp.png"]{width: 86px;height: 85px;}img[src="assets/img/tsmn.jpg"],img[src="assets/img/ict.png"]{width: 52px;height: 52px;}img[src="assets/img/about.png"]{width: 245px;height: 245px;}#desc{height: 260px;padding-bottom:0px;}#desc p{font-size: 16px;}.fa-code, .fa-chart-bar, .fa-laptop-code {font-size: 60px;}}@media screen and (max-width:1052px){#background{height: 610px;}h1{font-size: 24px;}#aboutRegion{padding: 2% 5%;padding-top: 0%;}#aboutRegion section.jc-space{justify-content: center;}#aboutRegion h2{margin-bottom: 10px;}#photo{margin-bottom: 10px;}#desc-block p{font-size: 16px;}#button{font-size:11px;padding: 5px;}#desc{width:58%;height: 200px;padding-top: 15px;padding-bottom: 0%;margin-left: 8px;}#desc p{font-size: 13px;}img[src="assets/img/about.png"]{width:150px;height:150px;}img[src="assets/img/tsmn.jpg"],img[src="assets/img/ict.png"]{display: none;}#tablet img{width: 0%;}img[src="assets/img/beehouse.png"],img[src="assets/img/portfolio.png"],img[src="assets/img/free-css.png"]{height: 140px;}#servicesRegion{width:80%;padding: 0% 5%;}.servicesBlock{width: 35%;height: 235px;}.servicesBlock:last-child{margin-top: 5px;}.servicesBlock p{font-size: 16px;text-align: left;}.servicesBlock h3{font-size:18px;}.icons{height: 70px;margin-bottom: 10px;}img[src="assets/img/css_progress.png"],img[src="assets/img/html_progress.png"],img[src="assets/img/sass_progress.png"], img[src="assets/img/cpp_progress.png"], img[src="assets/img/bootstrap_progress.png"]{width: 110px;height: 12px;}.projectsRegion{padding: 0% 4%;}.projectsBlock {height: 202px;}.projectsBlock a span p{font-size: 12px;}.projectsBlock a span h3{font-size:18px;}p{font-size: 18px;text-align: center;}img[src="assets/img/html5.png"]{width: 110px;height: 110px;}img[src="assets/img/CSS3.png"] {width: 67px;height: 92px;margin-bottom: 17px;}img[src="assets/img/bootstrap.png"] {margin-top: 35px;margin-bottom: 10px;width: 61px;height: 60px;}img[src="assets/img/sass.png"]{width: 61px;height: 60px;margin-top: 35px;}img[src="assets/img/cpp.png"]{width: 76px;height: 75px;margin-top: 22px;}.skillsBlock{width:20%;height: 195px;}#skills1{margin-top: 2px;}#skills2{margin-top: -9px;}#skills3{margin-top: 6px;}#skills4{margin-top: 16px;}#skills5{margin-top: 14px;}footer{width: 68%;padding:1% 16%;height: 80px;}footer p,footer h3{font-size:18px;text-align: center;}#social{width: 40%;}#social i{font-size:28px;}#tabletRegion{padding: 0% 0%;}#tablet{background-image: none;height: 391.72px;}#tabletRegion{width: 100%;}#form{width: 300px;}#form th{display: none;}#map{height: 350px;width: 250px;}#map iframe{width: 250px;height: 250px;}.fa-code, .fa-chart-bar, .fa-laptop-code {font-size: 55px;}#schools img{margin-top: 0px;}#contactRegion{padding: 2% 2.5%;padding-top: 0%;}#contactRegion h2{margin-bottom: 0px;}h2::before {margin-top: 0px;height: 20px;}}@media screen and (max-width:770px){#background{height: 460px;}#desc{width:84%;}#desc p {font-size: 13px;}.skillsBlock{height: 155px;}img[src="assets/img/html5.png"]{width: 90px;height: 90px;}img[src="assets/img/CSS3.png"] {width: 55px;height: 79px;margin-top: 5px;}img[src="assets/img/bootstrap.png"] {margin-top: 26px;width: 51px;height: 50px;}img[src="assets/img/sass.png"]{width: 51px;height: 50px;margin-top: 24px;}img[src="assets/img/cpp.png"]{width: 66px;height: 65px;margin-top: 11px;}img[src="assets/img/about.png"] {width: 120px;height: 120px;}#desc-block h1{font-size:22px;}#desc-block p{font-size: 16px;}img[src="assets/img/css_progress.png"],img[src="assets/img/html_progress.png"],img[src="assets/img/sass_progress.png"], img[src="assets/img/cpp_progress.png"], img[src="assets/img/bootstrap_progress.png"]{width: 80px;height: 9px;}#form {width: 220px;margin-right: 15px;}#map{width: 230px;}#map iframe{width:200px;height: 200px;}input[type="text"],input[type="email"], textarea {width:200px;padding: 0.5%;font-size: 12px;}label{font-size: 13px;}td{font-size: 12px;}.buttons{font-size: 12px;width: 50px;height: 23px;}.projectsBlock {height: 240px;width: 67%;}img[src="assets/img/beehouse.png"],img[src="assets/img/portfolio.png"],img[src="assets/img/free-css.png"]{height: 176px;}.servicesBlock{width: 60%;}h2 {margin-bottom: 10px;}.servicesBlock:first-child {margin-bottom: 5px;}}@media screen and (max-width:590px){#map{display:none;}#form{width: 100%;padding-top: 0px;}input[type="text"],input[type="email"], textarea {width:300px;}.skillsBlock{width:60%;}img[src="assets/img/css_progress.png"],img[src="assets/img/html_progress.png"],img[src="assets/img/sass_progress.png"], img[src="assets/img/cpp_progress.png"], img[src="assets/img/bootstrap_progress.png"]{width: 160px;height: 13px;}.projectsBlock {height: 185px;width: 61%;}img[src="assets/img/beehouse.png"],img[src="assets/img/portfolio.png"],img[src="assets/img/free-css.png"]{height: 130px;}.projectsBlock a span p {font-size: 11px;}.projectsBlock a span h3 {font-size: 13px;}.margin-top-10{margin-top: 5px;}.servicesBlock {width: 84%;height: 200px;padding: 0% 5%;}.icons{margin-bottom: 0px;}#background.jc{justify-content: normal;}#desc-block{padding: 3% 5%;position: relative;left:-100px;}#desc-block p{font-size: 28px;}#desc-block h1{font-size: 34px;}#desc{height: 240px;}#button{font-size: 15px;}}@media screen and (max-width:427px){main{padding-top: 0%;}#background{height: 760px;}img[src="assets/img/beehouse.png"],img[src="assets/img/portfolio.png"],img[src="assets/img/free-css.png"]{height: 110px;}h2{font-size: 21px ;}#photo{border-radius: 18px;border:4px ridge #ebebeb;}img[src="assets/img/about.png"] {width: 80px;height: 80px;}#projectsRegion{padding: 2% 3%;}.projectsBlock{height: 168px;width: 78%;}.projectsBlock a span p {font-size: 12px;}.projectsBlock a span h3 {font-size: 16px;}#desc p{font-size: 11px;}#desc-block{width: 56%;left: -86px;}nav{display: none;}#container{width:100%;}#logo{margin: 0px auto;}header{display: none;}.mobNav{display: block;margin:0px auto;background-color: #555;height: 80px;color: white;overflow: hidden;background-color: #333;position: relative;}.mobNav #mobLinks {display: none;}.mobNav a {color: white;padding: 14px 16px;text-decoration: none;font-size: 17px;display: block;}.mobNav a.icon {background: black;display: block;position: absolute;right: 0;top: 0;}.mobNav a:hover {background-color: #ddd;color: black;}}
+@media screen and (max-width:1656px) {
+	#background {
+		height: 730px;
+	}
+
+	#aboutRegion {
+		padding: 5% 5%;
+		padding-top: 0px;
+	}
+
+	#servicesRegion {
+		width: 90%;
+		padding: 3% 0%;
+	}
+
+	.servicesBlock {
+		height: 260px;
+	}
+
+	.servicesBlock p {
+		font-size: 16px;
+	}
+
+	.servicesBlock h3 {
+		font-size: 22px;
+	}
+
+	.projectsBlock a span p {
+		font-size: 18px;
+	}
+
+	.projectsBlock {
+		height: 282px;
+	}
+
+	img[src="assets/img/beehouse.png"],img[src="assets/img/portfolio.png"],img[src="assets/img/free-css.png"] {
+		height: 200px;
+	}
+
+	#desc {
+		margin-left: 20px;
+		height: 300px;
+		margin-right: 3.5%;
+	}
+
+	#desc p {
+		font-size: 18px;
+	}
+
+	img[src="assets/img/tsmn.jpg"],img[src="assets/img/ict.png"] {
+		width: 62px;
+		height: 62px;
+	}
+
+	.skillsBlock {
+		height: 270px;
+	}
+
+	#skills1 {
+		margin-top: 12px;
+	}
+
+	#skills2 {
+		margin-top: 1px;
+	}
+
+	#skills3 {
+		margin-top: 24px;
+	}
+
+	#skills4 {
+		margin-top: 26px;
+	}
+
+	#skills5 {
+		margin-top: 14px;
+	}
+
+	img[src="assets/img/html5.png"] {
+		width: 175px;
+		height: 175px;
+	}
+
+	img[src="assets/img/CSS3.png"] {
+		width: 112px;
+		height: 153px;
+	}
+
+	img[src="assets/img/bootstrap.png"] {
+		width: 117px;
+		height: 117px;
+	}
+
+	img[src="assets/img/sass.png"] {
+		width: 116px;
+		height: 115px;
+	}
+
+	img[src="assets/img/cpp.png"] {
+		width: 131px;
+		height: 130px;
+	}
+
+	img[src="assets/img/css_progress.png"],img[src="assets/img/html_progress.png"],img[src="assets/img/sass_progress.png"], img[src="assets/img/cpp_progress.png"], img[src="assets/img/bootstrap_progress.png"] {
+		width: 150px;
+		height: 15px;
+	}
+
+	img[src="assets/img/about.png"] {
+		width: 400px;
+		height: 400px;
+	}
+
+	#photo {
+		margin-left: 0.5%;
+	}
+
+	#tablet {
+		width: 891px;
+		height: 626.72px;
+	}
+
+	textarea {
+		height: 40px;
+		margin-top: 15px;
+	}
+
+	#map iframe {
+		width: 330px;
+		height: 330px;
+	}
+
+	th {
+		font-size: 22px;
+	}
+
+	#form {
+		padding-top: 20px;
+	}
+
+	#tabletRegion {
+		padding: 7% 2%;
+	}
+
+	h2 {
+		font-size: 32px;
+		margin-bottom: 25px;
+	}
+
+	.icons {
+		flex-direction: column-reverse;
+		justify-content: end;
+	}
+
+	.fa-code, .fa-chart-bar, .fa-laptop-code {
+		font-size: 70px;
+	}
+}
+
+@media screen and (max-width:1442px) {
+	.servicesBlock {
+		height: 230px;
+	}
+
+	.servicesBlock h3 {
+		font-size: 19px;
+	}
+
+	.servicesBlock p {
+		font-size: 15px;
+	}
+
+	img[src="assets/img/html5.png"] {
+		width: 160px;
+		height: 160px;
+	}
+
+	img[src="assets/img/CSS3.png"] {
+		width: 97px;
+		height: 138px;
+	}
+
+	img[src="assets/img/bootstrap.png"] {
+		width: 102px;
+		height: 102px;
+	}
+
+	img[src="assets/img/sass.png"] {
+		width: 101px;
+		height: 100px;
+	}
+
+	img[src="assets/img/cpp.png"] {
+		width: 116px;
+		height: 115px;
+	}
+
+	img[src="assets/img/css_progress.png"],img[src="assets/img/html_progress.png"],img[src="assets/img/sass_progress.png"], img[src="assets/img/cpp_progress.png"], img[src="assets/img/bootstrap_progress.png"] {
+		width: 130px;
+		height: 15px;
+	}
+
+	img[src="assets/img/beehouse.png"],img[src="assets/img/portfolio.png"],img[src="assets/img/free-css.png"] {
+		height: 200px;
+	}
+
+	.projectsBlock a span p {
+		font-size: 16px;
+	}
+
+	.projectsBlock a span h3 {
+		font-size: 20px;
+	}
+
+	#desc {
+		margin-right: 0.5%;
+		width: 58%;
+		height: 340px;
+	}
+
+	#desc p {
+		font-size: 19px;
+		margin-bottom: 15px;
+	}
+
+	img[src="assets/img/tsmn.jpg"],img[src="assets/img/ict.png"] {
+		width: 58px;
+		height: 58px;
+	}
+
+	img[src="assets/img/tsmn.jpg"] {
+		margin-right: 20px;
+	}
+
+	#schools {
+		width: 36%;
+		padding: 0% 32%;
+	}
+
+	#contactRegion {
+		width: 80%;
+		padding: 2% 5.5%;
+		padding-top: 0%;
+	}
+
+	h2 {
+		font-size: 28px;
+		margin-bottom: 25px;
+	}
+
+	.skillsBlock {
+		height: 250px;
+		width: 19.1%;
+	}
+
+	img[src="assets/img/about.png"] {
+		width: 300px;
+		height: 300px;
+	}
+
+	.projectsBlock {
+		height: 275px;
+		width: 36%;
+	}
+
+	#photo {
+		margin-left: 0.5%;
+	}
+
+	#tablet {
+		width: 891px;
+		height: 595.72px;
+	}
+
+	iframe {
+		width: 220px;
+		height: 220px;
+	}
+
+	input[type="text"],input[type="email"], textarea {
+		width: 240px;
+		padding: 1%;
+	}
+
+	td {
+		font-size: 14px;
+	}
+
+	.fa-code, .fa-chart-bar, .fa-laptop-code {
+		font-size: 65px;
+	}
+
+	footer {
+		width: 70%;
+		padding: 0% 15%;
+		height: 100px;
+	}
+
+	footer a {
+		font-size: 18px;
+	}
+
+	footer h3 {
+		font-size: 24px;
+	}
+
+	footer p {
+		font-size: 18px;
+	}
+
+	.socialBlock {
+		width: 32px;
+		height: 32px;
+	}
+
+	#social i {
+		font-size: 23px;
+	}
+
+	h2::before {
+		margin-top: 0px;
+		height: 20px;
+	}
+}
+
+@media screen and (max-width:1242px) {
+	.skillsBlock {
+		height: 220px;
+	}
+
+	#projectsRegion {
+		padding: 2% 5%;
+	}
+
+	h2 {
+		font-size: 25px;
+		margin-bottom: 15px;
+	}
+
+	h2::before {
+		margin-top: 0px;
+		height: 15px;
+	}
+
+	.projectsBlock {
+		height: 235px;
+	}
+
+	.servicesBlock {
+		height: 210px;
+		width: 25%;
+	}
+
+	.servicesBlock h3 {
+		font-size: 18px;
+	}
+
+	.servicesBlock p {
+		font-size: 14px;
+	}
+
+	img[src="assets/img/beehouse.png"],img[src="assets/img/portfolio.png"],img[src="assets/img/free-css.png"] {
+		height: 160px;
+	}
+
+	img[src="assets/img/html5.png"] {
+		width: 130px;
+		height: 130px;
+	}
+
+	img[src="assets/img/CSS3.png"] {
+		width: 77px;
+		height: 108px;
+	}
+
+	img[src="assets/img/bootstrap.png"] {
+		width: 72px;
+		height: 72px;
+	}
+
+	img[src="assets/img/sass.png"] {
+		width: 71px;
+		height: 70px;
+	}
+
+	img[src="assets/img/cpp.png"] {
+		width: 86px;
+		height: 85px;
+	}
+
+	img[src="assets/img/tsmn.jpg"],img[src="assets/img/ict.png"] {
+		width: 52px;
+		height: 52px;
+	}
+
+	img[src="assets/img/about.png"] {
+		width: 245px;
+		height: 245px;
+	}
+
+	#desc {
+		height: 260px;
+		padding-bottom: 0px;
+	}
+
+	#desc p {
+		font-size: 16px;
+	}
+
+	.fa-code, .fa-chart-bar, .fa-laptop-code {
+		font-size: 60px;
+	}
+}
+
+@media screen and (max-width:1052px) {
+	#background {
+		height: 610px;
+	}
+
+	h1 {
+		font-size: 24px;
+	}
+
+	#aboutRegion {
+		padding: 2% 5%;
+		padding-top: 0%;
+	}
+
+	#aboutRegion section.jc-space {
+		justify-content: center;
+	}
+
+	#aboutRegion h2 {
+		margin-bottom: 10px;
+	}
+
+	#photo {
+		margin-bottom: 10px;
+	}
+
+	#desc-block p {
+		font-size: 16px;
+	}
+
+	#button {
+		font-size: 11px;
+		padding: 5px;
+	}
+
+	#desc {
+		width: 58%;
+		height: 200px;
+		padding-top: 15px;
+		padding-bottom: 0%;
+		margin-left: 15px;
+	}
+
+	#desc p {
+		font-size: 13px;
+	}
+
+	img[src="assets/img/about.png"] {
+		width: 150px;
+		height: 150px;
+	}
+
+	img[src="assets/img/tsmn.jpg"],img[src="assets/img/ict.png"] {
+		display: none;
+	}
+
+	#tablet img {
+		width: 0%;
+	}
+
+	img[src="assets/img/beehouse.png"],img[src="assets/img/portfolio.png"],img[src="assets/img/free-css.png"] {
+		height: 140px;
+	}
+
+	#servicesRegion {
+		width: 80%;
+		padding: 0% 5%;
+	}
+
+	.servicesBlock {
+		width: 35%;
+		height: 235px;
+	}
+
+	.servicesBlock:last-child {
+		margin-top: 5px;
+	}
+
+	.servicesBlock p {
+		font-size: 15px;
+		text-align: left;
+	}
+
+	.servicesBlock h3 {
+		font-size: 18px;
+	}
+
+	.icons {
+		height: 70px;
+		margin-bottom: 10px;
+	}
+
+	img[src="assets/img/css_progress.png"],img[src="assets/img/html_progress.png"],img[src="assets/img/sass_progress.png"], img[src="assets/img/cpp_progress.png"], img[src="assets/img/bootstrap_progress.png"] {
+		width: 110px;
+		height: 12px;
+	}
+
+	.projectsRegion {
+		padding: 0% 4%;
+	}
+
+	.projectsBlock {
+		height: 202px;
+	}
+
+	.projectsBlock a span p {
+		font-size: 12px;
+	}
+
+	.projectsBlock a span h3 {
+		font-size: 18px;
+	}
+
+	p {
+		font-size: 18px;
+		text-align: center;
+	}
+
+	img[src="assets/img/html5.png"] {
+		width: 110px;
+		height: 110px;
+	}
+
+	img[src="assets/img/CSS3.png"] {
+		width: 67px;
+		height: 92px;
+		margin-bottom: 17px;
+	}
+
+	img[src="assets/img/bootstrap.png"] {
+		margin-top: 35px;
+		margin-bottom: 10px;
+		width: 61px;
+		height: 60px;
+	}
+
+	img[src="assets/img/sass.png"] {
+		width: 61px;
+		height: 60px;
+		margin-top: 35px;
+	}
+
+	img[src="assets/img/cpp.png"] {
+		width: 76px;
+		height: 75px;
+		margin-top: 22px;
+	}
+
+	.skillsBlock {
+		width: 20%;
+		height: 195px;
+	}
+
+	#skills1 {
+		margin-top: 2px;
+	}
+
+	#skills2 {
+		margin-top: -9px;
+	}
+
+	#skills3 {
+		margin-top: 6px;
+	}
+
+	#skills4 {
+		margin-top: 16px;
+	}
+
+	#skills5 {
+		margin-top: 14px;
+	}
+
+	footer {
+		width: 68%;
+		padding: 1% 16%;
+		height: 80px;
+	}
+
+	footer p,footer h3 {
+		font-size: 18px;
+		text-align: center;
+	}
+
+	#social {
+		width: 40%;
+	}
+
+	#social i {
+		font-size: 18px;
+	}
+
+	#tabletRegion {
+		padding: 0% 0%;
+	}
+
+	#tablet {
+		background-image: none;
+		height: 391.72px;
+	}
+
+	#tabletRegion {
+		width: 100%;
+	}
+
+	#form {
+		width: 300px;
+	}
+
+	#form th {
+		display: none;
+	}
+
+	#map {
+		height: 350px;
+		width: 250px;
+	}
+
+	#map iframe {
+		width: 250px;
+		height: 250px;
+	}
+
+	.fa-code, .fa-chart-bar, .fa-laptop-code {
+		font-size: 55px;
+	}
+
+	#schools img {
+		margin-top: 0px;
+	}
+
+	#contactRegion {
+		padding: 2% 2.5%;
+		padding-top: 0%;
+	}
+
+	#contactRegion h2 {
+		margin-bottom: 0px;
+	}
+
+	h2::before {
+		margin-top: 0px;
+		height: 20px;
+	}
+}
+
+@media screen and (max-width:770px) {
+	#background {
+		height: 460px;
+	}
+
+	#container {
+		width: 98%;
+	}
+
+	#desc {
+		width: 84%;
+	}
+
+	#desc p {
+		font-size: 13px;
+	}
+
+	.skillsBlock {
+		height: 155px;
+	}
+
+	img[src="assets/img/html5.png"] {
+		width: 90px;
+		height: 90px;
+	}
+
+	img[src="assets/img/CSS3.png"] {
+		width: 55px;
+		height: 79px;
+		margin-top: 5px;
+	}
+
+	img[src="assets/img/bootstrap.png"] {
+		margin-top: 26px;
+		width: 51px;
+		height: 50px;
+	}
+
+	img[src="assets/img/sass.png"] {
+		width: 51px;
+		height: 50px;
+		margin-top: 24px;
+	}
+
+	img[src="assets/img/cpp.png"] {
+		width: 66px;
+		height: 65px;
+		margin-top: 11px;
+	}
+
+	img[src="assets/img/about.png"] {
+		width: 120px;
+		height: 120px;
+	}
+
+	#desc-block h1 {
+		font-size: 22px;
+	}
+
+	#desc-block p {
+		font-size: 16px;
+	}
+
+	img[src="assets/img/css_progress.png"],img[src="assets/img/html_progress.png"],img[src="assets/img/sass_progress.png"], img[src="assets/img/cpp_progress.png"], img[src="assets/img/bootstrap_progress.png"] {
+		width: 80px;
+		height: 9px;
+	}
+
+	#form {
+		width: 220px;
+		margin-right: 15px;
+	}
+
+	#map {
+		width: 230px;
+	}
+
+	#map iframe {
+		width: 200px;
+		height: 200px;
+	}
+
+	input[type="text"],input[type="email"], textarea {
+		width: 200px;
+		padding: 0.5%;
+		font-size: 12px;
+	}
+
+	label {
+		font-size: 13px;
+	}
+
+	td {
+		font-size: 12px;
+	}
+
+	.buttons {
+		font-size: 12px;
+		width: 50px;
+		height: 23px;
+	}
+
+	.projectsBlock {
+		height: 240px;
+		width: 67%;
+	}
+
+	img[src="assets/img/beehouse.png"],img[src="assets/img/portfolio.png"],img[src="assets/img/free-css.png"] {
+		height: 176px;
+	}
+
+	.servicesBlock {
+		width: 60%;
+	}
+
+	h2 {
+		margin-bottom: 10px;
+	}
+
+	.servicesBlock:first-child {
+		margin-bottom: 5px;
+	}
+
+	footer {
+		width: 82%;
+		padding: 1% 9%;
+		flex-direction: column;
+		height: 200px;
+	}
+}
+
+@media screen and (max-width:590px) {
+	#map {
+		display: none;
+	}
+
+	#form {
+		width: 100%;
+		padding-top: 0px;
+	}
+
+	input[type="text"],input[type="email"], textarea {
+		width: 300px;
+	}
+
+	.skillsBlock {
+		width: 60%;
+	}
+
+	header {
+		height: 55px;
+	}
+
+	header nav ul li {
+		margin: 0px 7px;
+	}
+
+	header nav ul li a {
+		font-size: 14px;
+	}
+
+	img[src="assets/img/css_progress.png"],img[src="assets/img/html_progress.png"],img[src="assets/img/sass_progress.png"], img[src="assets/img/cpp_progress.png"], img[src="assets/img/bootstrap_progress.png"] {
+		width: 160px;
+		height: 13px;
+	}
+
+	.projectsBlock {
+		height: 185px;
+		width: 61%;
+	}
+
+	img[src="assets/img/beehouse.png"],img[src="assets/img/portfolio.png"],img[src="assets/img/free-css.png"] {
+		height: 130px;
+	}
+
+	.projectsBlock a span p {
+		font-size: 11px;
+	}
+
+	.projectsBlock a span h3 {
+		font-size: 13px;
+	}
+
+	.margin-top-10 {
+		margin-top: 5px;
+	}
+
+	.servicesBlock {
+		width: 84%;
+		height: 200px;
+		padding: 0% 5%;
+	}
+
+	.icons {
+		margin-bottom: 0px;
+	}
+
+	#background.jc {
+		justify-content: normal;
+	}
+
+	#desc-block {
+		padding: 3% 5%;
+		position: relative;
+		left: -100px;
+	}
+
+	#desc-block p {
+		font-size: 28px;
+	}
+
+	#desc-block h1 {
+		font-size: 34px;
+	}
+
+	#desc {
+		height: 240px;
+	}
+
+	#button {
+		font-size: 15px;
+	}
+
+	img[src="assets/img/logo.png"] {
+		height: 40px;
+		width: 40px;
+	}
+}
+
+@media screen and (max-width:427px) {
+	main {
+		padding-top: 0%;
+	}
+
+	.dropbtn {
+		background-color: #494647;
+		color: #121212;
+		padding: 13px 16px;
+		font-size: 16px;
+		border: none;
+		z-index: 3;
+	}
+
+	.mobNav {
+		position: relative;
+		display: inline-block;
+		width: 100%;
+		border-top: 3px groove #B9B6B6;
+	}
+
+	.ddContent {
+		width: 100%;
+		display: none;
+		background-color: #B9B6B6;
+		min-width: 160px;
+		z-index: 3;
+	}
+
+	.ddContent a {
+		color: black;
+		padding: 12px 16px;
+		text-decoration: none;
+		display: block;
+		z-index: 3;
+		border-bottom:groove 5px #cdcbcb;
+	}
+
+	.ddContent a:hover {
+		background-color: #686466;
+	}
+
+	.mobNav:hover .ddContent {
+		display: block;
+	}
+	#background {
+		height: 760px;
+	}
+
+	header {
+		height: 93px;
+		background-image: none;
+		background-color: #494647;
+	}
+
+	header:hover {
+		height: 328px;
+	}
+
+	#container {
+		width: 100%;
+		flex-direction: column;
+	}
+
+	#container.jc-space {
+		justify-content: normal;
+	}
+
+	#container.align-center {
+		align-items: stretch;
+	}
+
+	img[src="assets/img/beehouse.png"],img[src="assets/img/portfolio.png"],img[src="assets/img/free-css.png"] {
+		height: 100px;
+	}
+
+	img[src="assets/img/logo.png"] {
+		height: 35px;
+		width: 35px;
+	}
+
+	h2 {
+		font-size: 21px;
+	}
+
+	#photo {
+		border-radius: 18px;
+		border: 4px ridge #ebebeb;
+	}
+
+	img[src="assets/img/about.png"] {
+		width: 80px;
+		height: 80px;
+	}
+
+	#projectsRegion {
+		padding: 2% 3%;
+	}
+
+	.projectsBlock {
+		height: 148px;
+		width: 78%;
+	}
+
+	.projectsBlock a span p {
+		font-size: 10px;
+	}
+
+	.projectsBlock a span h3 {
+		font-size: 12px;
+	}
+
+	#desc p {
+		font-size: 11px;
+	}
+
+	#desc-block {
+		width: 56%;
+		left: -86px;
+		top: -30px;
+	}
+
+	nav {
+		display: none;
+	}
+
+	img[src="assets/logo.png"] {
+		height: 30px;
+		width: 30px;
+	}
+
+	#logo {
+		width: 100%;
+	}
+
+	.fa-code, .fa-chart-bar, .fa-laptop-code {
+		font-size: 45px;
+	}
+
+	.servicesBlock {
+		height: 150px;
+	}
+
+	.stext {
+		height: 80px;
+	}
+
+	.servicesBlock h3 {
+		font-size: 13px;
+	}
+
+	.servicesBlock p {
+		font-size: 11px;
+	}
+
+	img[src="assets/img/css_progress.png"],img[src="assets/img/html_progress.png"],img[src="assets/img/sass_progress.png"], img[src="assets/img/cpp_progress.png"], img[src="assets/img/bootstrap_progress.png"] {
+		width: 110px;
+		height: 11px;
+	}
+
+	#form {
+		width: 180px;
+	}
+
+	input[type="text"],input[type="email"], textarea {
+		width: 170px;
+	}
+
+	.icons {
+		height: 55px;
+	}
+
+	td {
+		font-size: 10px;
+	}
+
+	#desc-block p {
+		font-size: 22px;
+	}
+
+	#desc-block h1 {
+		font-size: 27px;
+	}
+
+	#social {
+		width: 80%;
+	}
+
+	#files {
+		width: 50%;
+	}
+}
+
+@media screen and (max-width:377px) {
+	.servicesBlock h3 {
+		font-size: 12px;
+	}
+
+	.servicesBlock p {
+		font-size: 10px;
+	}
+
+	.fa-code, .fa-chart-bar, .fa-laptop-code {
+		font-size: 35px;
+	}
+
+	#desc p {
+		font-size: 10px;
+	}
+
+	footer {
+		height: 165px;
+	}
+
+	footer p, footer h3 {
+		font-size: 17px;
+	}
+
+	footer a {
+		font-size: 15px;
+	}
+}
